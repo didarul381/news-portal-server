@@ -9,7 +9,7 @@ const catagories=require('./data/catagories.json');
 const news=require('./data/news.json');
 const courses=require('./data/courses.json');
 
-// app.get('/',(req,res)=>{
+//app.get('/',(req,res)=>{
 //     res.send('News api running');
 // })
 
